@@ -1,0 +1,14 @@
+{
+    "name": "mmws/demo",
+    "description": "desc",
+    "require": {
+        "houdunwang/wechat": "^2.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "JackZhang",
+            "email": "731547576@qq.com"
+        }
+    ]
+}
